@@ -13,15 +13,19 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.searchapi.model.ImageSearchResult;
 import com.example.searchapi.model.SearchResult;
 import com.example.searchapi.service.AutoCompleteService;
 import com.example.searchapi.service.DDInstantApiSearchService;
+import com.example.searchapi.service.ImageSearchServiceApi;
 import com.example.searchapi.service.SearchService;
 
 @RestController
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:5173")
 public class SearchController {
+
+    private final ImageSearchServiceApi imageSearchServiceApi;
 
 	private final SearchService service;
 
@@ -31,8 +35,9 @@ public class SearchController {
 	@Autowired
 	private DDInstantApiSearchService ddInstantApiSearchService;
 
-	public SearchController(SearchService service) {
+	public SearchController(SearchService service, ImageSearchServiceApi imageSearchServiceApi) {
 		this.service = service;
+		this.imageSearchServiceApi = imageSearchServiceApi;
 	}
 
 	@GetMapping("/search")
@@ -104,5 +109,12 @@ public class SearchController {
 
 	    return ResponseEntity.ok(filtered.toString());
 	}
+	
+	@GetMapping("/search/images")
+    public List<ImageSearchResult> searchImages(@RequestParam String query) {
+        return imageSearchServiceApi.searchImages(query);
+    }
 
 }
+
+

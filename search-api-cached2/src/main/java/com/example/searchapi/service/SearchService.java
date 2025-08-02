@@ -4,14 +4,13 @@ import java.util.*;
 import java.util.concurrent.CompletableFuture;
 import java.util.stream.Collectors;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.searchapi.model.CachedQuery;
 import com.example.searchapi.model.SearchResult;
 import com.example.searchapi.repository.CachedQueryRepository;
 
-import lombok.AllArgsConstructor;
+
 
 @Service
 public class SearchService {
@@ -26,7 +25,6 @@ public class SearchService {
 				.collect(Collectors.toList());
 	}
 
-	@Autowired
 	public SearchService(CachedQueryRepository repo, List<ISearchProvider> searchProviders) {
 		super();
 		this.repo = repo;
@@ -55,7 +53,7 @@ public class SearchService {
 							return provider.search(query);
 						} catch (Exception e) {
 							System.out.println(
-									"❌ Error in " + provider.getClass().getSimpleName() + ": " + e.getMessage());
+									"Error in " + provider.getClass().getSimpleName() + ": " + e.getMessage());
 							return Collections.emptyList();
 						}
 					})).toList();
@@ -122,10 +120,10 @@ public class SearchService {
 			cq.setCreatedAt(new java.util.Date());
 			repo.save(cq);
 
-			System.out.println("✅ Cached combined async results for query: " + query);
+			System.out.println("Cached combined async results for query: " + query);
 		}
 
-		// 🧮 Pagination logic at the final level
+		// Pagination logic
 		int start = page * size;
 		int end = Math.min(start + size, finalResults.size());
 

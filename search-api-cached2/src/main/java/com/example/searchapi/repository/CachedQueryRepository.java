@@ -6,6 +6,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 import com.example.searchapi.model.CachedQuery;
 
-public interface CachedQueryRepository extends MongoRepository<CachedQuery, String> {
-	  Optional<CachedQuery> findByQuery(String query);
-	}
+public interface CachedQueryRepository extends MongoRepository<CachedQuery, String> 
+{
+	Optional<CachedQuery> findByQuery(String query);
+}
+	

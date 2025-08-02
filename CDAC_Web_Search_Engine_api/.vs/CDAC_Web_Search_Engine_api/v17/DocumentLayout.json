@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\model\\openroutersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\model\\openroutersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|c:\\users\\mayur\\onedrive\\desktop\\pictures\\downloads\\cdac_web_search_engine_api (1)\\cdac_web_search_engine_api\\cdac_web_search_engine_api\\cdac_web_search_engine_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1632B95-E8C6-4C50-B31D-6E852FB2D81C}|CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj|solutionrelative:cdac_web_search_engine_api\\cdac_web_search_engine_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T05:43:58.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\appsettings.Development.json",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T05:43:14.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenRouterSettings.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Model\\OpenRouterSettings.cs",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\Model\\OpenRouterSettings.cs",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Model\\OpenRouterSettings.cs",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\Model\\OpenRouterSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:01:16.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CDAC_Web_Search_Engine_api.csproj",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T05:00:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Program.cs",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\Program.cs",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Program.cs",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:59:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\appsettings.json",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\appsettings.json",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T18:55:32.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "CDAC_Web_Search_Engine_api\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\mayur\\OneDrive\\Desktop\\Pictures\\Downloads\\CDAC_Web_Search_Engine_api (1)\\CDAC_Web_Search_Engine_api\\CDAC_Web_Search_Engine_api\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "CDAC_Web_Search_Engine_api\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:43:50.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CDAC_Web_Search_Engine_api.Controllers.SearchController",
+    "Method": "AskGemma",
+    "RelativePath": "api/Search/ask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prompt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,70 @@
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\appsettings.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.staticwebassets.endpoints.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.exe
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.deps.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.runtimeconfig.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.pdb
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.csproj.AssemblyReference.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.AssemblyInfoInputs.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.AssemblyInfo.cs
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.csproj.CoreCompileInputs.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\scopedcss\bundle\CDAC_Web_Search_Engine_api.styles.css
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web.1E3C2EC6.Up2Date
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\refint\CDAC_Web_Search_Engine_api.dll
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.pdb
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.genruntimeconfig.cache
+C:\Users\digvi\source\repos\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\ref\CDAC_Web_Search_Engine_api.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\appsettings.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.staticwebassets.endpoints.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.exe
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.deps.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.runtimeconfig.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\CDAC_Web_Search_Engine_api.pdb
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.csproj.AssemblyReference.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.AssemblyInfoInputs.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.AssemblyInfo.cs
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.csproj.CoreCompileInputs.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\scopedcss\bundle\CDAC_Web_Search_Engine_api.styles.css
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web.1E3C2EC6.Up2Date
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\refint\CDAC_Web_Search_Engine_api.dll
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.pdb
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\CDAC_Web_Search_Engine_api.genruntimeconfig.cache
+C:\Users\mayur\OneDrive\Desktop\Pictures\Downloads\CDAC_Web_Search_Engine_api (1)\CDAC_Web_Search_Engine_api\CDAC_Web_Search_Engine_api\obj\Debug\net8.0\ref\CDAC_Web_Search_Engine_api.dll

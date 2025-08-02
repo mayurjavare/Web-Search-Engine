@@ -19,7 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @Service("ddFullSearchService")
 public class DDFullApiSearchService implements ISearchProvider {
 
-	 @Value("${ddg.api.key}")
+	 	@Value("${ddg.api.key}")
 	    private String ddgApiKey;
 
 	    @Override
@@ -52,14 +52,14 @@ public class DDFullApiSearchService implements ISearchProvider {
 	                    results.add(result);
 	                }
 	            } else {
-	                System.out.println("❌ DuckDuckGo API error: " + response.statusCode());
+	                System.out.println("DuckDuckGo API error: " + response.statusCode());
 	                System.out.println("Response: " + response.body());
 	            }
 
-	            System.out.println("✅ DuckDuckGo API hit...");
+	            System.out.println("DuckDuckGo API hit...");
 
 	        } catch (Exception e) {
-	            System.out.println("❌ Error in DuckDuckGoApiSearchService: " + e.getMessage());
+	            System.out.println("Error in DuckDuckGoApiSearchService: " + e.getMessage());
 	            e.printStackTrace();
 	        }
 

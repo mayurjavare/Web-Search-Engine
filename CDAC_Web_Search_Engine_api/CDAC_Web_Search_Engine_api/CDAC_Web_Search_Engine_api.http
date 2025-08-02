@@ -1,0 +1,6 @@
+@CDAC_Web_Search_Engine_api_HostAddress = http://localhost:5209
+
+GET {{CDAC_Web_Search_Engine_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
